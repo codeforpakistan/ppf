@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Framework for Digitally enabled citizen-led participatory processes',
-  description: '📦 🎨 A api-friendly theme for VuePress.',
+  description: 'Prepared by Codeando Mexico and Code for Pakistan as part of the Code for All Exchange Programme',
   theme: 'api',
   base: '/ppf/'
 }
