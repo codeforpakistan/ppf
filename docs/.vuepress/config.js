@@ -4,11 +4,6 @@ module.exports = {
   theme: 'api',
   base: '/ppf/',
   plugins: [
-    [
-      '@vuepress/google-analytics',
-      {
-        'ga': 'G-ZPPP4EYWV7'
-      }
-    ]
-  ]
+    ['@vuepress/plugin-google-analytics', { ga: 'G-ZPPP4EYWV7' }],
+  ],
 }
